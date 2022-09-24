@@ -1,11 +1,11 @@
 {
-	"name": "Bottus",
-	"description": " Whatsapp bot.",
+	"name": "FAGU",
+	"description": "𝐹𝛥𝐷𝛨𝛪𝐿",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/lyfe0010/whatsapp-bot-md",
+	"repository": "https://github.com/Fagu12/FAGULYFE-MD",
 	"stack": "container",
 	"env": {
 		"ALWAYS_ONLINE": {
@@ -36,7 +36,7 @@
 		"STICKER_PACKNAME": {
 			"description": "sticker pack info",
 			"required": true,
-			"value": "❤️,LyFE"
+			"value": "𝐹𝛥𝐺𝑈 𝐵𝛩𝑇⚡"
 		},
 		"HEROKU_APP_NAME": {
 			"description": "Heroku app name, same as above entered",
